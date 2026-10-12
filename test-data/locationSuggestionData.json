@@ -1,0 +1,7 @@
+{
+  "city": "Bangalore",
+  "project": "vars rosemont, Brookefield",
+  "area": "EPIP Zone",
+  "expectedCitySuggestion": "Bangalore",
+  "expectedProjectSuggestion": "vars rosemont, Brookefield"
+}

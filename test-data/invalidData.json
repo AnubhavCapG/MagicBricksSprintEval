@@ -1,0 +1,11 @@
+{
+  "propertyType": "10002",
+  "unselectedOptionValue": "-1",
+  "city": "Bangalore",
+  "expectedCitySuggestion": "Bangalore",
+  "furnishedStatus": "11902",
+  "projectError": "Please enter name of Project/Society.",
+  "bedroomsError": "Please select the no. of bedrooms.",
+  "floorNumberError": "Please select the floor number.",
+  "totalFloorNumberError": "Please select total Floors."
+}

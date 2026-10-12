@@ -1,0 +1,7 @@
+{
+  "carpetAreaSelector": "#carpetArea",
+  "carpetAreaValue": "1000",
+  "superAreaSelector": "#coveredArea",
+  "superAreaValue": "1200",
+  "availabilitySelector": "#possessionStatus2"
+}
